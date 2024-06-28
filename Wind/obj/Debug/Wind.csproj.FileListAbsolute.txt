@@ -1,0 +1,32 @@
+D:\Chnu\Summer\Wind\bin\Debug\Wind.exe.config
+D:\Chnu\Summer\Wind\bin\Debug\Wind.exe
+D:\Chnu\Summer\Wind\bin\Debug\Wind.pdb
+D:\Chnu\Summer\Wind\obj\Debug\Wind.csproj.AssemblyReference.cache
+D:\Chnu\Summer\Wind\obj\Debug\Wind.csproj.SuggestedBindingRedirects.cache
+D:\Chnu\Summer\Wind\obj\Debug\Wind.Form1.resources
+D:\Chnu\Summer\Wind\obj\Debug\Wind.Properties.Resources.resources
+D:\Chnu\Summer\Wind\obj\Debug\Wind.csproj.GenerateResource.cache
+D:\Chnu\Summer\Wind\obj\Debug\Wind.csproj.CoreCompileInputs.cache
+D:\Chnu\Summer\Wind\obj\Debug\Wind.exe
+D:\Chnu\Summer\Wind\obj\Debug\Wind.pdb
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\bin\Debug\Wind.exe.config
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\bin\Debug\Wind.exe
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\bin\Debug\Wind.pdb
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\obj\Debug\Wind.csproj.AssemblyReference.cache
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\obj\Debug\Wind.csproj.SuggestedBindingRedirects.cache
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\obj\Debug\Wind.Form1.resources
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\obj\Debug\Wind.Properties.Resources.resources
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\obj\Debug\Wind.csproj.GenerateResource.cache
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\obj\Debug\Wind.csproj.CoreCompileInputs.cache
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\obj\Debug\Wind.exe
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\obj\Debug\Wind.pdb
+D:\Загрузки Д\oplab5-ValentinaOb-main\Wind\obj\Debug\Wind.csproj.AssemblyReference.cache
+D:\Загрузки Д\oplab5-ValentinaOb-main\Wind\obj\Debug\Wind.Form1.resources
+D:\Загрузки Д\oplab5-ValentinaOb-main\Wind\obj\Debug\Wind.Properties.Resources.resources
+D:\Загрузки Д\oplab5-ValentinaOb-main\Wind\obj\Debug\Wind.csproj.GenerateResource.cache
+D:\Загрузки Д\oplab5-ValentinaOb-main\Wind\obj\Debug\Wind.csproj.CoreCompileInputs.cache
+D:\Загрузки Д\oplab5-ValentinaOb-main\Wind\obj\Debug\Wind.exe
+D:\Загрузки Д\oplab5-ValentinaOb-main\Wind\obj\Debug\Wind.pdb
+D:\Загрузки Д\oplab5-ValentinaOb-main\Wind\bin\Debug\Wind.exe.config
+D:\Загрузки Д\oplab5-ValentinaOb-main\Wind\bin\Debug\Wind.exe
+D:\Загрузки Д\oplab5-ValentinaOb-main\Wind\bin\Debug\Wind.pdb
